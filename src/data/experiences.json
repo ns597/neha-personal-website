@@ -1,32 +1,32 @@
 [
   {
     "logo": "/img/wicc_logo.png",
-    "role": "Developer",
-    "time": "2023 - Present",
+    "role": "Researcher at People and Robots Teaching and Learning Lab",
+    "time": "Feb 2023 - Present",
     "bullet points": [
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      "Ut pretium arcu et massa semper, id fringilla leo semper.",
-      "Sed quis justo ac magna. Lorem ipsum dolor sit amet, consectetur adipiscing elit. "
+      "Aiding in building a high-level task planner which assigns tasks to robots using the GPT-4 API, Python, and Prompt Engineering",
+      "Utilizing the Google Speech API to build a framework that connects with 2 robots to take in sound input and speak (built a parser to connect the framework to the task planner).",
+      "Using VLMs (Video Language Models) and Python to perceive items placed in a fridge for future learning of user preferences (how a user likes to place items in a fridge) and making decisions that align with those user preferences",
+      "Publication: MOASIC: A Modular System for Assistive and Interactive Cooking"
     ]
   },
   {
     "logo": "/img/wicc_logo.png",
-    "role": "Developer",
-    "time": "2023 - Present",
+    "role": "Software Engineer Intern at Cisco AppDynamics",
+    "time": "Jun 2023 - Aug 2023",
     "bullet points": [
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      "Ut pretium arcu et massa semper, id fringilla leo semper.",
-      "Sed quis justo ac magna. Lorem ipsum dolor sit amet, consectetur adipiscing elit. "
+      "Built an automation of FSO (Full Stack Observability) workflows using the fsoc (FSO Control Utility) tool",
+      "Utilized the BATS (BASH Automated Testing System) and shell scripting to script 30+ solution lifecycle workflows and produce a report with test results for the fsoc tool",
+      "Used by developers of fsoc to discover 5+ major bugs in the fsoc tool"
     ]
   },
   {
     "logo": "/img/wicc_logo.png",
-    "role": "Developer",
-    "time": "2023 - Present",
+    "role": "Consultant for Introduction to Computing",
+    "time": "Aug 2022 - Dec 2023",
     "bullet points": [
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      "Ut pretium arcu et massa semper, id fringilla leo semper.",
-      "Sed quis justo ac magna. Lorem ipsum dolor sit amet, consectetur adipiscing elit. "
+      "Mentor over 700 Introduction to Computing students (both Computer Science and non-technical majors), explaining challenging concepts such as string manipulation to object-oriented programming, as well as help them learn how to build, test, and debug programs",
+      "Hold weekly consulting hours and bi-weekly lab time and help grade projects and exams"
     ]
   }
 ]
