@@ -10,12 +10,12 @@ const Footer = () => {
       <div>
         <div className="flex flex-row items-center space-x-3">
           <img src={email} />
-          <p>example@gmail.com</p>
+          <p>nsunkara23@gmail.com</p>
         </div>
 
         <div className="flex flex-row items-center space-x-3">
           <img src={phone} />
-          <p>123-456-7890</p>
+          <p>+1 508-613-5373</p>
         </div>
       </div>
       <div>
